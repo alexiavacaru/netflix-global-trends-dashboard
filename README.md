@@ -33,7 +33,7 @@ netflix-global-trends-dashboard/
 ├── reports/
 │   ├── netflix_dashboard.xlsx
 │   └── dashboard_preview.png
-    └──interpretari_si_analiza.md
+│    └──interpretari_si_analiza.md
 ```
 
 

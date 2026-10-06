@@ -9,7 +9,7 @@ I chose this topic because streaming is part of everyday life, and Netflix is a 
 - which countries have the most titles?
 - which genres and ratings are the most common?
 
-## Data
+## data
 
 Netflix Movies and TV Shows (Kaggle): https://www.kaggle.com/datasets/shivamb/netflix-shows
 

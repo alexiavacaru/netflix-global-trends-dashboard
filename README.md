@@ -29,12 +29,11 @@ netflix-global-trends-dashboard/
 │   │   └── netflix_titles.csv
 │   └── processed/
 │       └── netflix_clean.xlsx
+        └── README.md
 ├── reports/
 │   ├── netflix_dashboard.pbix
 │   └── dashboard_preview.png
-└── docs/
-    ├── data_dictionary.md
-    └── cleaning_log.md
+└──
 ```
 
 

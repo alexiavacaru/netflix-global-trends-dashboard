@@ -1,6 +1,6 @@
 # Netflix Global Trends Dashboard
 
-A dashboard about the Netflix catalog, made with Excel and Power BI.
+I chose this topic because streaming is part of everyday life, and Netflix is a platform I use myself, so I was curious to see what is actually in its catalog. The dataset also has information about countries, genres, ratings and dates, which made it a good fit for practicing Excel and Power BI. I made this project to practice the whole process, from raw data to a finished report.
 
 ## questions
 

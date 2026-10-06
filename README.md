@@ -31,9 +31,9 @@ netflix-global-trends-dashboard/
 │       └── netflix_clean.xlsx
         └── README.md
 ├── reports/
-│   ├── netflix_dashboard.pbix
+│   ├── netflix_dashboard.xlsx
 │   └── dashboard_preview.png
-└──
+    └──interpretari_si_analiza.md
 ```
 
 

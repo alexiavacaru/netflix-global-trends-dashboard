@@ -20,7 +20,6 @@ open_window <- function(w = 9, h = 6) {
 
 # --- plot 1: top 5 genres since 2010 ---
 
-# one title can have several genres separated by commas, so split them
 genres <- netflix %>%
   separate_rows(listed_in, sep = ", ")
 

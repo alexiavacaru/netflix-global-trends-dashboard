@@ -34,7 +34,11 @@ netflix-global-trends-dashboard/
 │   ├── netflix_dashboard.xlsx
 │   └── dashboard_preview.png
 │   └──interpretations_and_analysis.docx
-└──
+└──── src/
+│    ├── netflix_analysis.R
+│    ├── genre_trends_evolution.png
+│   └── movies_duration_boxplot.png
+└──── 
 ```
 
 
